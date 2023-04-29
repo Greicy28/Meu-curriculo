@@ -1,0 +1,71 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(101, 136, 253);
+    margin: 20px;
+}
+
+.Endereço{
+    color:rgb(101, 136, 253);
+    font-size: 20px;
+ font-family: 'Times New Roman', Times, serif;
+}
+.Cidade{
+color:rgb(101, 136, 253);
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.Estado{
+color:rgb(101, 136, 253);
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.CEP{
+color:rgb(101, 136, 253);
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.Tel{
+color:rgb(101, 136, 253);
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.E-mail{
+color:rgb(101, 136, 253);
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+p{
+font-size: 20px;
+text-align:justify;
+font-family: 'Times New Roman', Times, serif;
+margin: 18px;
+ 
+}
+.p{
+    text-align:justify;
+    
+}
+h2{
+text-align: justify;
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+color:rgb(101, 136, 253); 
+margin: 18px;
+ padding: 3px;
+}
+
+li{
+text-align: justify;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+padding: 5px;
+}
